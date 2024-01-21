@@ -15,7 +15,7 @@ hero:
       link: /hello-world
     - theme: alt
       text: Blue Plus Red Home
-      link: https://bpr-home.vercel.app/
+      link: https://www.blueplusred.com/
 
 # features:
 #   - title: Feature A
