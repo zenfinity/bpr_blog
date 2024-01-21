@@ -8,12 +8,12 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Blue Plus Red Home', link: 'www.blueplusred.com' },
       { text: 'Blog Home', link: '/' },
       // { text: 'Examples', link: '/markdown-examples' }
     ],
 
-    logo: "/assets/bluepredvesica_v5.4_icon.png",
+    logo: "/bluepredvesica_v5.4_icon.png",
+    siteTitle: false,
 
     sidebar: [
       {
