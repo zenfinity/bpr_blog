@@ -7,8 +7,8 @@ hero:
   text: "To inspire discovery of connections"
   tagline: Things shared with the world by Ian Mac Moore 
   image:
-   src: 'assets/img/bluepredvesica_v5.4_vert.png'
-   alt: 'My logo'
+   src: '/bluepredvesica_v5.4_vert.png'
+   alt: 'Blue Plus Red Logo'
   actions:
     - theme: brand
       text: Hello World
