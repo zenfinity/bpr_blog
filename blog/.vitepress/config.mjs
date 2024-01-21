@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "See Newly--A Blog",
   description: "Things shared with the world by Ian Mac Moore to inspire discovery of connections",
+  head: [['link', { rel: 'icon', href: '/bluepredvesica_v5.4_icon.png' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -12,10 +13,13 @@ export default defineConfig({
       // { text: 'Examples', link: '/markdown-examples' }
     ],
 
+    logo: "/assets/bluepredvesica_v5.4_icon.png",
+
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Posts',
         items: [
+          { text: 'Hello World', link: '/hello-world' },
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]

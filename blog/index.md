@@ -6,13 +6,16 @@ hero:
   name: "See Newly--A Blog"
   text: "To inspire discovery of connections"
   tagline: Things shared with the world by Ian Mac Moore 
-  # actions:
-  #   - theme: brand
-  #     text: Markdown Examples
-  #     link: /markdown-examples
-  #   - theme: alt
-  #     text: API Examples
-  #     link: /api-examples
+  image:
+   src: 'assets/img/bluepredvesica_v5.4_vert.png'
+   alt: 'My logo'
+  actions:
+    - theme: brand
+      text: Hello World
+      link: /hello-world
+    # - theme: alt
+    #   text: API Examples
+    #   link: /api-examples
 
 # features:
 #   - title: Feature A
