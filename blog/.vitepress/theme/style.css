@@ -44,9 +44,9 @@
  * -------------------------------------------------------------------------- */
 
  :root {
-  --vp-c-default-1: var(--vp-c-gray-1);
-  --vp-c-default-2: var(--vp-c-gray-2);
-  --vp-c-default-3: var(--vp-c-gray-3);
+  --vp-c-default-1: var(--mid-gray);
+  --vp-c-default-2: var(--gray);
+  --vp-c-default-3: var(--silver);
   --vp-c-default-soft: var(--vp-c-gray-soft);
 
   --vp-c-brand-1: var(--vp-c-purple-1);
@@ -69,10 +69,24 @@
   --vp-c-danger-3: var(--vp-c-red-3);
   --vp-c-danger-soft: var(--vp-c-red-soft);
 
-  --vp-c-purple-1: #6f42c1;
-  --vp-c-purple-2: #7e4cc9;
-  --vp-c-purple-3: #8e5cd9;
-  --vp-c-purple-soft: rgba(159, 122, 234, 0.14);
+  --vp-c-purple-1: var(--bpr-purple);
+  --vp-c-purple-2: #b62ab6;
+  --vp-c-purple-3: #d81fd8;
+  --vp-c-purple-soft: rgba(228, 122, 234, 0.14);
+
+  --bpr-purple: #982398;
+
+  --black: #000;
+  --near-black: #111;
+  --dark-gray:#333;
+  --mid-gray:#555;
+  --gray: #777;
+  --silver: #999;
+  --light-silver: #aaa;
+  --moon-gray: #ccc;
+  --light-gray: #eee;
+  --near-white: #f4f4f4;
+  --white: #fff;
 }
 
 /**
@@ -99,13 +113,13 @@
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
     120deg,
-    #bd34fe 30%,
+    var(--bpr-purple) 30%,
     #41d1ff
   );
 
   --vp-home-hero-image-background-image: linear-gradient(
-    -45deg,
-    #bd34fe 50%,
+    -30deg,
+    var(--bpr-purple) 50%,
     #47caff 50%
   );
   --vp-home-hero-image-filter: blur(44px);

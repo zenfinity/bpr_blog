@@ -19,9 +19,9 @@ export default defineConfig({
       {
         text: 'Posts',
         items: [
-          { text: 'Hello World', link: '/hello-world' },
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Hello World', link: '/posts/hello-world' },
+          { text: 'US Indigenous Wars Viz Revisited', link: '/posts/us-indigenous-wars-revisited' },
+          
         ]
       }
     ],

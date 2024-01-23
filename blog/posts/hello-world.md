@@ -3,7 +3,7 @@ January 21, 2024, Minneapolis, MN
 <!-- ![Pidgeons on a cold day in Minneapolis](./assets/IMG_5477.png) -->
 
 <figure>
-    <img src="./assets/IMG_5477.png" alt="Pidgeons on a cold day in Minneapolis" width="500">
+    <img src="/assets/IMG_5477.png" alt="Pidgeons on a cold day in Minneapolis" width="500">
     <figcaption>Pidgeons on a cold day in Minneapolis. Photo by me, 2024</figcaption>
 </figure>
 
