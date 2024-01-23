@@ -2,11 +2,12 @@
 January 23, 2024, Minneapolis, MN
 
 <figure>
-    <img src="/assets/mapScreenShot.png" alt="Map screenshot from viz" width="500" href="https://zenfinity.github.io/USIndigenousWars/">
-
+    <a href="https://zenfinity.github.io/USIndigenousWars/">
+        <img src="/assets/mapScreenShot.png" alt="Map screenshot from viz" width="500">
+    </a>
 </figure>
 
-I've gotten advice recently to practice making quick visuals. Making this blog is a step towards this. I made a viz a year ago exploring war waged against indigenous peoples, and there was more I wanted to do, so I figured I revisit and try to make something quick. 
+I've gotten advice recently to practice making quick visuals. Making this blog is a step towards this. I [made a viz](https://zenfinity.github.io/USIndigenousWars/) a year ago exploring war waged against indigenous peoples, and there was more I wanted to do, so I figured I'd revisit and try to make something quick. 
 
 Thanks to [Jeremy](https://medium.com/@jeremy3/create-a-blog-with-vitepress-c4b1c203d688) for inspiration on helping get going on new posts.
 
