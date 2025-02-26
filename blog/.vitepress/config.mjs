@@ -21,6 +21,7 @@ export default defineConfig({
         items: [
           { text: 'Hello World', link: '/posts/hello-world' },
           { text: 'US Indigenous Wars Viz Revisited', link: '/posts/us-indigenous-wars-revisited' },
+          { text: 'The Data Detective brief reivew', link: '/posts/data-detectives' },
           
         ]
       }
